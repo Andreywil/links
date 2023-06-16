@@ -9,7 +9,7 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
   } else {
     img.setAttribute(
-      "src","./assets/DevLinks • Projeto Discover (Community)/Mobile/avatar.png"
+      "src","./assets/Avatar.png"
     )
   }
   // se tiver light mode add img light
